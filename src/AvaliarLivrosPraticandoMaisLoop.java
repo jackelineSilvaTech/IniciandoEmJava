@@ -18,12 +18,10 @@ public class AvaliarLivrosPraticandoMaisLoop {
             totalDeNotas++;
         }
 
-
-    }
-
-    if (totalDeNotas > 0) {
-        System.out.println("Média de avaliações " + mediaDasAvaliacoes / totalDeNotas);
-    } else {
-        System.out.println("Nenhuma nota válida foi digitada.");
+        if (totalDeNotas > 0) {
+            System.out.println("Média de avaliações " + mediaDasAvaliacoes / totalDeNotas);
+        } else {
+            System.out.println("Nenhuma nota válida foi digitada.");
+        }
     }
 }

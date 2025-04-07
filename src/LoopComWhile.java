@@ -8,12 +8,12 @@ public class LoopComWhile {
         int totalDeNotas = 0;
 
         while (nota != -1) {
-            System.out.println("Diga sua avaliação para o filme ou -1 para encerrar  ");
+            System.out.println("Diga sua avaliação para o filme ou -1 para encerrar:  ");
             nota = leitura.nextDouble();
 
             if (nota != -1) {
                 mediaAvaliacao += nota;
-                totalDeNotas++;
+                totalDeNotas++; //a cada total de notal, incrementa 1//
             }
         }
         System.out.println("Média de avaliações: " + mediaAvaliacao/totalDeNotas);
