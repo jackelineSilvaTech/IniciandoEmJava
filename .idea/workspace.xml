@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff0dc63c-618a-4788-9b15-29e3e50ca0b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AvaliarLivrosPraticandoMaisLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AvaliarLivrosPraticandoMaisLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AvaliarLivros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoopComWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopComWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,37 +31,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AvaliarLivros.executor": "Run",
-    "Application.CadastroDeLivros.executor": "Run",
-    "Application.CadastrodeLivrosRecebendoValores.executor": "Run",
-    "Application.CastingEntreTiposDeVariaveisDiferentes.executor": "Run",
-    "Application.ClassificacaoPorCategoria.executor": "Run",
-    "Application.ConversaoDeTemperatura.executor": "Run",
-    "Application.ConversaoDeTipos.executor": "Run",
-    "Application.ConversordeMoedas.executor": "Run",
-    "Application.DeclarandoValoreseVariaveis.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ParOuImpar.executor": "Run",
-    "Application.PlanejandoUmaViagemConsumoEAutonomia.executor": "Run",
-    "Application.PrimitivosEmAcao.executor": "Run",
-    "Application.Soma.executor": "Run",
-    "Application.VerificacaoDeIdadeEEscopoDeVariaveis.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AvaliarLivros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadastroDeLivros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadastrodeLivrosRecebendoValores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculandoIR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CastingEntreTiposDeVariaveisDiferentes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassificacaoPorCategoria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparandoDoisNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConversaoDeTemperatura.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConversaoDeTipos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConversordeMoedas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeclarandoValoreseVariaveis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElse2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParOuImpar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlanejandoUmaViagemConsumoEAutonomia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitivosEmAcao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Soma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidacaoDeIdade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidacaoDeSenha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificacaoDeDescontos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificacaoDeDescontos1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificacaoDeDescontos2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificacaoDeDiaUtil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificacaoDeEstacaoDoAno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificacaoDeIdadeEEscopoDeVariaveis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificandoAprovacacaoEmUmaDisciplina.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificandoCodigoDeAcessoENivelDePermissao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificandoCompatibilidadeDeSangue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificandoLadosDeTriangulo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificandoSeNumeroEParOuImpar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificandoSeNumeroEParOuImpar2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificandoSeUmNumeroEstaEmUmIntervalo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.praticandojavacondicionaisifeelse.VerificandoLadosDeTriangulo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PlanejandoUmaViagemConsumoEAutonomia">
-    <configuration name="ClassificacaoPorCategoria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojavavariaveisetipos.ClassificacaoPorCategoria" />
+}</component>
+  <component name="RunManager" selected="Application.VerificandoCompatibilidadeDeSangue">
+    <configuration name="VerificandoCodigoDeAcessoENivelDePermissao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praticandojavacondicionaisifeelse.VerificandoCodigoDeAcessoENivelDePermissao" />
       <module name="desafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojavavariaveisetipos.*" />
+          <option name="PATTERN" value="praticandojavacondicionaisifeelse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +88,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversordeMoedas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojavavariaveisetipos.ConversordeMoedas" />
+    <configuration name="VerificandoCompatibilidadeDeSangue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VerificandoCompatibilidadeDeSangue" />
+      <module name="desafios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerificandoLadosDeTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="VerificandoLadosDeTriangulo" />
+      <module name="desafios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerificandoSeUmNumeroEstaEmUmIntervalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praticandojavacondicionaisifeelse.VerificandoSeUmNumeroEstaEmUmIntervalo" />
       <module name="desafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojavavariaveisetipos.*" />
+          <option name="PATTERN" value="praticandojavacondicionaisifeelse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,38 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParOuImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojavavariaveisetipos.ParOuImpar" />
+    <configuration name="praticandojavacondicionaisifeelse.VerificandoLadosDeTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praticandojavacondicionaisifeelse.VerificandoLadosDeTriangulo" />
       <module name="desafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojavavariaveisetipos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlanejandoUmaViagemConsumoEAutonomia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojavavariaveisetipos.PlanejandoUmaViagemConsumoEAutonomia" />
-      <module name="desafios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="praticandojavavariaveisetipos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VerificacaoDeIdadeEEscopoDeVariaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojavavariaveisetipos.VerificacaoDeIdadeEEscopoDeVariaveis" />
-      <module name="desafios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="praticandojavavariaveisetipos.*" />
+          <option name="PATTERN" value="praticandojavacondicionaisifeelse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PlanejandoUmaViagemConsumoEAutonomia" />
-        <item itemvalue="Application.VerificacaoDeIdadeEEscopoDeVariaveis" />
-        <item itemvalue="Application.ConversordeMoedas" />
-        <item itemvalue="Application.ParOuImpar" />
-        <item itemvalue="Application.ClassificacaoPorCategoria" />
+        <item itemvalue="Application.VerificandoCompatibilidadeDeSangue" />
+        <item itemvalue="Application.VerificandoCodigoDeAcessoENivelDePermissao" />
+        <item itemvalue="Application.praticandojavacondicionaisifeelse.VerificandoLadosDeTriangulo" />
+        <item itemvalue="Application.VerificandoLadosDeTriangulo" />
+        <item itemvalue="Application.VerificandoSeUmNumeroEstaEmUmIntervalo" />
       </list>
     </recent_temporary>
   </component>
@@ -148,5 +149,27 @@
       <updated>1744023480397</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificandoCodigoDeAcessoENivelDePermissao.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
