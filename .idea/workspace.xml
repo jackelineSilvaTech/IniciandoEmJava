@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff0dc63c-618a-4788-9b15-29e3e50ca0b5" name="Changes" comment="" />
+    <list default="true" id="ff0dc63c-618a-4788-9b15-29e3e50ca0b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AvaliarLivros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/AvaliarLivros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AvaliarLivrosPraticandoMaisLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/AvaliarLivrosPraticandoMaisLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculandoMediaDeNotasDecimais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/CalculandoMediaDeNotasDecimais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CastingEntreTiposDeVariaveisDiferentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/CastingEntreTiposDeVariaveisDiferentes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcatenandoVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/ConcatenandoVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversaoDeTemperaturas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/ConversaoDeTemperaturas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversaoDeValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/ConversaoDeValores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Estudos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/Estudos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/Leitura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LendoInputDoTeclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/LendoInputDoTeclado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopComFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/LoopComFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopComWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/LoopComWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaisOperacoesComVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/MaisOperacoesComVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperacoesComVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/OperacoesComVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OutroExemploLendoInputDoTeclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/OutroExemploLendoInputDoTeclado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Perfil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/Perfil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/Soma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Subtracacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/Subtracacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TomandoDecisoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandogeral/TomandoDecisoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/CalculandoIR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/CalculandoIR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/ComparandoDoisNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/ComparandoDoisNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/IfElse1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/IfElse1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/IfElse2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/IfElse2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/ValidacaoDeIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/ValidacaoDeIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/ValidacaoDeSenha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/ValidacaoDeSenha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificacaoDeDescontos1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificacaoDeDescontos1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificacaoDeDescontos2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificacaoDeDescontos2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificacaoDeDiaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificacaoDeDiaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificacaoDeEstacaoDoAno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificacaoDeEstacaoDoAno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificandoAprovacacaoEmUmaDisciplina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificandoAprovacacaoEmUmaDisciplina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificandoCodigoDeAcessoENivelDePermissao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificandoCodigoDeAcessoENivelDePermissao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificandoCompatibilidadeDeSangue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificandoCompatibilidadeDeSangue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificandoLadosDeTriangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificandoLadosDeTriangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificandoSeNumeroEParOuImpar1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificandoSeNumeroEParOuImpar1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificandoSeNumeroEParOuImpar2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificandoSeNumeroEParOuImpar2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificandoSeUmNumeroEstaEmUmIntervalo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificandoSeUmNumeroEstaEmUmIntervalo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,56 +68,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AvaliarLivros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CadastroDeLivros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CadastrodeLivrosRecebendoValores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculandoIR.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CastingEntreTiposDeVariaveisDiferentes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassificacaoPorCategoria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComparandoDoisNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoDeTemperatura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoDeTipos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversordeMoedas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeclarandoValoreseVariaveis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfElse2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParOuImpar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PlanejandoUmaViagemConsumoEAutonomia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimitivosEmAcao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Soma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidacaoDeIdade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidacaoDeSenha.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificacaoDeDescontos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificacaoDeDescontos1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificacaoDeDescontos2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificacaoDeDiaUtil.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificacaoDeEstacaoDoAno.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificacaoDeIdadeEEscopoDeVariaveis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificandoAprovacacaoEmUmaDisciplina.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificandoCodigoDeAcessoENivelDePermissao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificandoCompatibilidadeDeSangue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificandoLadosDeTriangulo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificandoSeNumeroEParOuImpar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificandoSeNumeroEParOuImpar2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificandoSeUmNumeroEstaEmUmIntervalo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.praticandojavacondicionaisifeelse.VerificandoLadosDeTriangulo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AvaliarLivros.executor": "Run",
+    "Application.CadastroDeLivros.executor": "Run",
+    "Application.CadastrodeLivrosRecebendoValores.executor": "Run",
+    "Application.CalculandoIR.executor": "Run",
+    "Application.CastingEntreTiposDeVariaveisDiferentes.executor": "Run",
+    "Application.ClassificacaoPorCategoria.executor": "Run",
+    "Application.ComparandoDoisNumeros.executor": "Run",
+    "Application.ConversaoDeTemperatura.executor": "Run",
+    "Application.ConversaoDeTipos.executor": "Run",
+    "Application.ConversordeMoedas.executor": "Run",
+    "Application.CriandoJanelaParaLerEExibirInformacoes.executor": "Run",
+    "Application.DeclarandoValoreseVariaveis.executor": "Run",
+    "Application.EpisodiosAssistidos.executor": "Run",
+    "Application.EstruturaDeRepeticaoFor.executor": "Run",
+    "Application.EstruturaDeRepeticaoWhile.executor": "Run",
+    "Application.ExpressaoBooleana.executor": "Run",
+    "Application.IfElse.executor": "Run",
+    "Application.IfElse2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OperadorBooleano.executor": "Run",
+    "Application.OperadorLogicoAnd.executor": "Run",
+    "Application.OperadoresLogicos.executor": "Run",
+    "Application.ParOuImpar.executor": "Run",
+    "Application.PassandoValoresParaMinhasVariaveis.executor": "Run",
+    "Application.PlanejandoUmaViagemConsumoEAutonomia.executor": "Run",
+    "Application.PrimitivosEmAcao.executor": "Run",
+    "Application.Questao1.executor": "Run",
+    "Application.Questao2.executor": "Run",
+    "Application.Questao3.executor": "Run",
+    "Application.Questao4.executor": "Run",
+    "Application.Soma.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "Application.Teste1.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Application.ValidacaoDeIdade.executor": "Run",
+    "Application.ValidacaoDeSenha.executor": "Run",
+    "Application.VariavelDoTipoStringComOFormat.executor": "Run",
+    "Application.VerificacaoDeDescontos.executor": "Run",
+    "Application.VerificacaoDeDescontos1.executor": "Run",
+    "Application.VerificacaoDeDescontos2.executor": "Run",
+    "Application.VerificacaoDeDiaUtil.executor": "Run",
+    "Application.VerificacaoDeEstacaoDoAno.executor": "Run",
+    "Application.VerificacaoDeIdadeEEscopoDeVariaveis.executor": "Run",
+    "Application.VerificandoAprovacacaoEmUmaDisciplina.executor": "Run",
+    "Application.VerificandoCodigoDeAcessoENivelDePermissao.executor": "Run",
+    "Application.VerificandoCompatibilidadeDeSangue.executor": "Run",
+    "Application.VerificandoLadosDeTriangulo.executor": "Run",
+    "Application.VerificandoSeNumeroEParOuImpar.executor": "Run",
+    "Application.VerificandoSeNumeroEParOuImpar2.executor": "Run",
+    "Application.VerificandoSeUmNumeroEstaEmUmIntervalo.executor": "Run",
+    "Application.executar.executor": "Run",
+    "Application.praticandojavacondicionaisifeelse.VerificandoLadosDeTriangulo.executor": "Run",
+    "Application.praticandojavavariaveisetipos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.VerificandoCompatibilidadeDeSangue">
-    <configuration name="VerificandoCodigoDeAcessoENivelDePermissao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojavacondicionaisifeelse.VerificandoCodigoDeAcessoENivelDePermissao" />
+}]]></component>
+  <component name="RunManager" selected="Application.EstruturaDeRepeticaoWhile">
+    <configuration name="EstruturaDeRepeticaoFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praticandojavaestruturasdecontrole.EstruturaDeRepeticaoFor" />
       <module name="desafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojavacondicionaisifeelse.*" />
+          <option name="PATTERN" value="praticandojavaestruturasdecontrole.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,27 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerificandoCompatibilidadeDeSangue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VerificandoCompatibilidadeDeSangue" />
-      <module name="desafios" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VerificandoLadosDeTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="VerificandoLadosDeTriangulo" />
-      <module name="desafios" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VerificandoSeUmNumeroEstaEmUmIntervalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojavacondicionaisifeelse.VerificandoSeUmNumeroEstaEmUmIntervalo" />
+    <configuration name="EstruturaDeRepeticaoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praticandojavaestruturasdecontrole.EstruturaDeRepeticaoWhile" />
       <module name="desafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojavacondicionaisifeelse.*" />
+          <option name="PATTERN" value="praticandojavaestruturasdecontrole.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="praticandojavacondicionaisifeelse.VerificandoLadosDeTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojavacondicionaisifeelse.VerificandoLadosDeTriangulo" />
+    <configuration name="Questao3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio1dio.Questao3" />
       <module name="desafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojavacondicionaisifeelse.*" />
+          <option name="PATTERN" value="exercicio1dio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +173,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Questao4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio1dio.Questao4" />
+      <module name="desafios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio1dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praticandojavaestruturasdecontrole.SwitchCase" />
+      <module name="desafios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praticandojavaestruturasdecontrole.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="praticandojavavariaveisetipos.PassandoValoresParaMinhasVariaveis" />
+      <module name="desafios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="executar" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="praticandojavavariaveisetipos.PassandoValoresParaMinhasVariaveis" />
+      <module name="desafios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.executar" />
+      <item itemvalue="Application.EstruturaDeRepeticaoFor" />
+      <item itemvalue="Application.EstruturaDeRepeticaoWhile" />
+      <item itemvalue="Application.SwitchCase" />
+      <item itemvalue="Application.Questao3" />
+      <item itemvalue="Application.Questao4" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VerificandoCompatibilidadeDeSangue" />
-        <item itemvalue="Application.VerificandoCodigoDeAcessoENivelDePermissao" />
-        <item itemvalue="Application.praticandojavacondicionaisifeelse.VerificandoLadosDeTriangulo" />
-        <item itemvalue="Application.VerificandoLadosDeTriangulo" />
-        <item itemvalue="Application.VerificandoSeUmNumeroEstaEmUmIntervalo" />
+        <item itemvalue="Application.EstruturaDeRepeticaoWhile" />
+        <item itemvalue="Application.EstruturaDeRepeticaoFor" />
+        <item itemvalue="Application.SwitchCase" />
+        <item itemvalue="Application.Questao4" />
+        <item itemvalue="Application.Questao3" />
       </list>
     </recent_temporary>
   </component>
@@ -163,9 +257,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/praticandojavacondicionaisifeelse/VerificandoCodigoDeAcessoENivelDePermissao.java</url>
+          <url>file://$PROJECT_DIR$/src/praticandojavaestruturasdecontrole/VerificandoCodigoDeAcessoENivelDePermissao.java</url>
           <line>38</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/praticandojavavariaveisetipos/PassandoValoresParaMinhasVariaveis.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/praticandojavavariaveisetipos/PassandoValoresParaMinhasVariaveis.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
